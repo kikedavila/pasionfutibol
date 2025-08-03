@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://kikedavila.github.io/pasionfutibol/sitemap.xml
+Sitemap: https://pedrodavila-mkt.github.io/pasionfutibol/sitemap.xml
